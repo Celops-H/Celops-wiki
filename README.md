@@ -1,6 +1,6 @@
-# agent-config
+# celops-wiki
 
-个人 agent 配置仓库。存放全局规则文件和自定义技能，同步到本机各 agent。
+个人 wiki 仓库。存放全局规则文件和自定义技能，同步到本机各 agent。
 
 ## 目录
 
